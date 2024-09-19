@@ -1,0 +1,5 @@
+Terrapieno	Via del Terrapieno 27, Bologna	+393481414143	cusb.terrapieno@unibo.it	44.5044724	11.3903586
+Palacus	Via del Carpentiere 44, Bologna	+393481414142	cusb.terrapieno@unibo.it	44.5017054	11.3861339
+Preziosi	Via del Billi 18, Ozzano dell'Emilia	+393487412003	cusb.promo@unibo.it	44.435988	11.483758	
+Record	Via del Pilastro 8, Bologna	+390516338111	cusb.record@unibo.it	44.5094984	11.3877395
+Bertini	Via Bertini 9/2, Bologna	+39051510003	cusb.promo@unibo.it	44.5081109	11.3710391

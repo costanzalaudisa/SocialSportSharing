@@ -1,0 +1,164 @@
+h1 {
+	text-align:center;
+}
+
+input[type="text"],input[type="number"],input[type="password"],input[type="date"],select {
+	margin:0px 0px 5px 10px;
+	width:250px;
+	height:25px;
+}
+
+input[type="submit"], input[type="reset"], input[type="file"] {
+	width:auto;
+	height:34px;
+}
+
+input[type="radio"]{
+	width:13px;
+	height:13px;
+	line-height: normal;
+	margin-right:1px;
+}
+
+#logo {
+	margin-top: -15px;
+	padding-left: 15px;
+}
+
+#errore {
+	width:50%;
+	border:2px solid #FF4040;
+	background-color:#FF8080;
+	display: inline-table;
+	text-align:center;
+	vertical-align: center;
+}
+
+#successo {
+	width:50%;
+	border:2px solid #6CF13C;
+	background-color:#9AF37A;
+	display: inline-table;
+	text-align:center;
+	vertical-align: center;
+}
+
+.col-lg-12 {
+	position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px
+	vertical-align: center;
+	text-align:center;
+}
+
+div.container #signup {
+	margin-top:50px; 
+	width:25%; 
+	text-align:center;
+	vertical-align: center;
+}
+
+div.container #impianti, #valutazioni {
+	margin-top:50px;
+	text-align:center;
+}
+
+#home {
+	margin-top:50px; 
+	width:50%; 
+	text-align:center
+}
+
+#esito {
+	width:100%;
+	text-align:center;
+	border:none;
+}
+
+#cercaUtente {
+	width:300px;
+	float:left;
+}
+
+#regeventi td {
+	border:0px;
+	margin-bottom:0px;
+}
+
+#listaeventi {
+	text-align:left;
+	width:100%;
+	border:1px solid #DDDDDD;
+	margin-bottom:0px;
+}
+
+#listaeventi td {
+	padding:7px;
+	border:1px solid #DDDDDD;
+}
+
+#map {
+	height:400px;
+	width:100%;
+}
+
+#formtab {
+	position:relative;
+	display: inline-table;
+	text-align:left;
+	vertical-align: center;
+}
+
+#tab {
+	text-align:center;
+	border:1px solid #DDDDDD;
+}
+
+#tab td {
+	text-align:center;
+}
+
+#tab th {
+	text-align:center;
+	font-weight: normal;
+	font-size:18px;
+}
+
+#profilo {
+	text-align:center;
+	border:1px solid #DDDDDD; 
+}
+
+#profilo td, #profilo th {
+	text-align: center;
+}
+
+#categorie {
+	width:50%; 
+	text-align:center;
+}
+
+#tabcategorie {
+	text-align:center;
+	border:1px solid #DDDDDD;
+}
+
+#tabcategorie td {
+	padding:15px;
+}
+
+#tabcategorie th {
+	padding:15px;
+	font-size: 30px;
+	font-weight: normal;
+}
+
+#eventi {
+	text-align:center;
+	border:1px solid #DDDDDD;	
+}
+
+#durata {
+	width: 100px;
+}
