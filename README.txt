@@ -1,17 +1,14 @@
-COME AVVIARE IL PROGETTO
+# UNIBO Social Sports Sharing
 
-1. Aprire la cartella “database”
-2. Aprire il file “popolamento.sql” e inserire al posto di *PATH* il path della cartella “database” in cui sono situati i file .txt
-3. Aprire il terminale e posizionarsi nella cartella “database” in cui sono situati i file .sql
-4. Eseguire il comando mysql -u *USERNAME* -p *PASSWORD* <*NOMEFILE*.sql
-	I file da eseguire sono, in ordine:
-	- database.sql
-	- procedure.sql
-	- popolamento.sql
-5. Se si utilizza XAMPP, copiare la cartella “website” nella cartella “htdocs” nel path di installazione di XAMPP
-6. Avviare i servizi Apache e MySQL
-7. Per visualizzare il sito web, aprire il proprio broswer e digitare “localhost/website”
-	Per eseguire operazioni come utente premium, accedere al profilo del gestore.
-	Username: Gestore
-	Password: password
-	NB: abbiamo stabilito che il Gestore non può iscriversi agli eventi, per cui sono stati inseriti dei controlli in alcuni file php
+This was a project developed for the database management course at my Bachelor's programme. It consists in a platform for organizing and registering in sport events at known university sports facilities, written in PHP and MySQL. The instructions for running the projects can be found below. I might make adjustments to this project for fun and practice, but otherwise this is just to showcase what I have done in the past.
+
+## How to launch
+
+1. Ensure XAMPP is installed and that Apache and MySQL services are running.
+2. Navigate to the `database` folder and, in file `popolamento.sql`, replace the path with your own. [TODO: avoid absolute paths]
+3. Run the SQL scripts in the `database` folder with the command `mysql -u root <SQLSCRIPT.sql`.
+4. Copy and paste the `website` folder into the `htdocs` folder within the XAMPP installation path. [TODO: improve this step]
+5. Navigate to `localhost/website` on your browser.
+
+This procedure will be improved in the future.
+
