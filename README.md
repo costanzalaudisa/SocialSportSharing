@@ -2,6 +2,8 @@
 
 This was a project developed for the database management course at my Bachelor's programme. It consists in a platform for organizing and registering in sport events at known university sports facilities, written in PHP and MySQL. The instructions for running the projects can be found below. I might make adjustments to this project for fun and practice, but otherwise this is just to showcase what I have done in the past.
 
+NOTE: The project is currently in Italian. It will slowly be translated to English.
+
 ## How to launch
 
 1. Ensure XAMPP is installed and that Apache and MySQL services are running.
