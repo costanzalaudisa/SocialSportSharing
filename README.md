@@ -7,10 +7,7 @@ NOTE: The project is currently in Italian. It will slowly be translated to Engli
 ## How to launch
 
 1. Ensure XAMPP is installed and that Apache and MySQL services are running.
-2. Navigate to the `database` folder and, in file `popolamento.sql`, replace the path with your own. [TODO: avoid absolute paths]
+2. Navigate to the `database` folder and, in file `popolamento.sql`, replace the path with your own.
 3. Run the SQL scripts in the `database` folder with the command `mysql -u root <SQLSCRIPT.sql`.
-4. Copy and paste the `website` folder into the `htdocs` folder within the XAMPP installation path. [TODO: improve this step]
+4. Copy and paste the `website` folder into the `htdocs` folder within the XAMPP installation path.
 5. Navigate to `localhost/website` on your browser.
-
-This procedure will be improved in the future.
-
